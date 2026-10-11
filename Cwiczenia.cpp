@@ -46,6 +46,8 @@ operatory
 >=
 <=
 
+|| or
+&& and
 
 int main() {
 	int a = 2;
